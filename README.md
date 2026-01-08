@@ -38,17 +38,7 @@ This project is not designed for aviation safety, commercial surveillance, or de
 
 How It Works
 
-SkyTrack processes frames from a webcam and applies  detection logic to identify aircraft-like objects. Once detected, the system maintains a tracking lock and updates the object’s position as it moves across the frame.
-
-Accuracy depends on:
-
-Lighting
-
-Distance
-
-Sky clarity
-
-Camera resolution
+SkyTrack processes frames from a webcam and applies  detection logic to identify aircrafts. Once detected, the system maintains a tracking lock and updates the object’s position as it moves across the frame.
 
 Requirements
 
