@@ -77,6 +77,7 @@ Educational workshops
 Project Status
 
 SkyTrack is an ongoing research and learning project. Future updates may add improved detection, tracking logic, and model experimentation.
+This project is strictly for educational, research, and learning purposes only.
 
 License
 
