@@ -83,4 +83,4 @@ License
 SkyTrack is released under the GNU General Public License (GPL).
 You are free to use, study, modify, and redistribute the project under GPL terms.
 
-Developed by Dushshantha Rajkumr 2025 ( Ceyntax Technologies) www.ceyntax.com
+Developed by Dushshantha Rajkumar 2025 ( Ceyntax Technologies) www.ceyntax.com
