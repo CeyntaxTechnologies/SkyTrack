@@ -25,6 +25,7 @@ Real-world challenges in vision systems
 This project is not designed for aviation safety, commercial surveillance, or defense applications.
 
 How It Works
+
 SkyTrack processes frames from a webcam and applies  detection logic to identify aircrafts. Once detected, the system maintains a tracking lock and updates the object’s position as it moves across the frame.
 
 Requirements
@@ -40,6 +41,7 @@ Research & experimentation
 AI / CV demos
 Open-source tinkering
 Educational workshops
+
 
 Project Status
 SkyTrack is an ongoing research and learning project. Future updates may add improved detection, tracking logic, and model experimentation.
